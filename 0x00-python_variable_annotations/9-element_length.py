@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""Type-annotated function element_length that
-    takes a list input_list of string
-    as argument and returns a list"""
+"""task 9 module"""
 from typing import List
 
 
